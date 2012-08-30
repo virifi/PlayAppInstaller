@@ -12,7 +12,7 @@ root権限無しでplay storeから任意のアプリをインストールでき
 
 ### ダウンロード
 
-* [PlayAppInstaller.apk](https://github.com/downloads/virifi/PlayAppInstaller/PlayAppInstaller.apk)  
+* [PlayAppInstaller.apk](https://github.com/downloads/virifi/PlayAppInstaller/PlayAppInstaller.apk) 
 
 
 ### パーミッション
@@ -23,7 +23,7 @@ root権限無しでplay storeから任意のアプリをインストールでき
 
 ### スクリーンショット
 
-![スクリーンショット](https://github.com/virifi/SPModeSettings/raw/master/readme_imgs/screenshot1.png)
+![スクリーンショット](https://raw.github.com/virifi/PlayAppInstaller/master/readme_imgs/screenshot1.png)
 
 ### ライセンス
 
